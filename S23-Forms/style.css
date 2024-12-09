@@ -1,0 +1,22 @@
+form{
+    background-color: aqua;
+    display: inline-block;
+    padding: 20px;
+}
+form div{
+    margin: 20px;
+}
+form label{
+    display: inline-block;
+    width: 200px;
+}
+#form2{ 
+    background-color: lightsalmon;
+
+}
+#form3{
+    display: inline-block;
+    background-color: gray;
+    margin: 20px;
+}
+
